@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "price": 35.99,
+    "availability": "in stock"
+  },
+  {
+    "title": "You Don’t Know JS Yet",
+    "author": "Kyle Simpson",
+    "price": 30.00,
+    "availability": "in stock"
+  },
+  {
+    "title": "Eloquent JavaScript",
+    "author": "Marijn Haverbeke",
+    "price": 28.50,
+    "availability": "out of stock"
+  },
+  {
+    "title": "JavaScript: The Good Parts",
+    "author": "Douglas Crockford",
+    "price": 25.99,
+    "availability": "in stock"
+  },
+  {
+    "title": "Effective JavaScript",
+    "author": "David Herman",
+    "price": 32.49,
+    "availability": "in stock"
+  },
+  {
+    "title": "Learning React",
+    "author": "Alex Banks & Eve Porcello",
+    "price": 40.00,
+    "availability": "out of stock"
+  },
+  {
+    "title": "Programming TypeScript",
+    "author": "Boris Cherny",
+    "price": 38.75,
+    "availability": "in stock"
+  },
+  {
+    "title": "Head First JavaScript Programming",
+    "author": "Eric Freeman & Elisabeth Robson",
+    "price": 42.00,
+    "availability": "in stock"
+  },
+  {
+    "title": "Node.js Design Patterns",
+    "author": "Mario Casciaro",
+    "price": 45.50,
+    "availability": "in stock"
+  },
+  {
+    "title": "Frontend Developer Handbook",
+    "author": "Cody Lindley",
+    "price": 20.00,
+    "availability": "out of stock"
+  }
+]
